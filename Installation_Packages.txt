@@ -1,0 +1,10 @@
+npm install 
+@headlessui/react 
+cloudinary 
+jsonwebtoken 
+@types/jsonwebtoken 
+graphql-request 
+next-auth
+@grafbase/sdk --save-dev 
+
+Time: 31

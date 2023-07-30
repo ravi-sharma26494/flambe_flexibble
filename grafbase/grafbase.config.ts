@@ -24,8 +24,8 @@ const User = g.model('User',{
 });
 
 const Project = g.model('Project',{
-  titel: g.string().length({min:3}),
-  descriptions: g.string().optional(),
+  title: g.string().length({min:3}),
+  description: g.string().optional(),
   image: g.url(),
   liveSiteUrl: g.url(),
   githubUrl: g.string().optional(),

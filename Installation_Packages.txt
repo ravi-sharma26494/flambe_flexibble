@@ -9,4 +9,9 @@ next-auth
 
 Day-1 Time: 31
 Day-2 Time: 44 (24-07-2023)
-Day-3 Time:48:56 (30-07-2023)
+Day-3 Time:Last was->48:56-> continued (30-07-2023)
+Day-4 Time:01:26 (01-08-2023)
+    - Graph ql connection
+    - writing queries
+    - sigin in user
+    - google auth creation

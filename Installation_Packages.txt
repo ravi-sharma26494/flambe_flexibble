@@ -15,3 +15,4 @@ Day-4 Time:01:26 (01-08-2023)
     - writing queries
     - sigin in user
     - google auth creation
+    (NOTE): In session.ts: import { AdapterUser } from "next-auth/adapters";(throws error)
